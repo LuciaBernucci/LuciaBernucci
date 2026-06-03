@@ -66,7 +66,7 @@ Progetto personale sviluppato con React dedicato al mondo dei videogiochi.
 🔹 Utilizzo di componenti React e gestione dello stato
 🔹 Focus su esperienza utente e interfaccia responsive
 
-🔗 Repository: https://github.com/LuciaBernucci/GameZone
+🔗 Repository: https://github.com/LuciaBernucci/progetto_finale_game_zone
 
 ---
 
