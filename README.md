@@ -31,14 +31,6 @@
 
 ---
 
-## 📊 Statistiche GitHub
-
-![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=LuciaBernucci&show_icons=true&locale=it)
-
-![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=LuciaBernucci&layout=compact)
-
----
-
 ## 👩‍💻 Chi sono
 
 ```javascript
