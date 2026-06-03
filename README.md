@@ -59,7 +59,23 @@ const lucia = {
 
 Qui trovi alcuni dei progetti che ho realizzato durante il mio percorso di formazione e studio.
 
-🔹 In continuo aggiornamento
+### 🎮 GameZone
+Progetto personale sviluppato con React dedicato al mondo dei videogiochi.
+
+🔹 Realizzato per approfondire lo sviluppo frontend moderno
+🔹 Utilizzo di componenti React e gestione dello stato
+🔹 Focus su esperienza utente e interfaccia responsive
+
+🔗 Repository: https://github.com/LuciaBernucci/GameZone
+
+---
+
+### 🛒 Presto.it
+Marketplace sviluppato con Laravel in team durante il percorso formativo presso Aulab come progetto finale.
+
+🔹 Progetto Full Stack realizzato in collaborazione con altri sviluppatori
+🔹 Sviluppo di funzionalità frontend e backend
+🔹 Esperienza di lavoro in team tramite Git e GitHub
 
 
 ## 🌱 In crescita
