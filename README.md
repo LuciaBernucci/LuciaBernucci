@@ -31,30 +31,6 @@
 
 ---
 
-## 👩‍💻 Chi sono
-
-```javascript
-const lucia = {
-  ruolo: "Junior Full Stack Web Developer",
-  formazione: "Aulab",
-  attualmenteStudio: [
-    "Web Marketing",
-    "SEO",
-    "Google Analytics"
-  ],
-  competenze: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "PHP",
-    "Laravel",
-    "MySQL"
-  ],
-  obiettivo: "Unire sviluppo web e marketing digitale per creare progetti efficaci e orientati ai risultati"
-};
-```
-
 ## 🚀 Progetti
 
 Qui trovi alcuni dei progetti che ho realizzato durante il mio percorso di formazione e studio.
